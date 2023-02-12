@@ -1,0 +1,82 @@
+Microsoft Office 2019 ProPlus Retail AIO MULTi-25 NOV 2020
+Version 2008 Build 13127.20616
+
+
+[ RELEASE INFO ]
+
+
+* This release contains one SOURCE IMG and 24 executable svf-files.
+
+* All exe-files are created from original IMG's for each language.
+
+* This is done with SmartVersion, a program that calculates the 
+* difference between two files (one of which is used as the source) 
+* and then creates an svf-file based on that difference.
+
+* Hash-values attached in separate .txt
+* KMS & C2R-R2V_12 attached
+
+[img]https://lookimg.com/image/PcFeds[/img]
+
+[ DOWNLOAD INFO ]
+
+* Download the SOURCE IMG and preferred language
+* If you want en-US then just download the SOURCE IMG
+
+* Run the svf-file in the same folder as the SOURCE IMG.
+* This will extract & recreate the ORIGINAL IMG in the selected language.
+
+[ LANGUAGES ]
+
+* ARABIC
+* BRAZILIAN
+* DANISH
+* DUTCH
+* ENGLISH US
+* ESTONIAN
+* FINNISH
+* FRENCH
+* GERMAN 
+* GREEK
+* HINDI
+* HUNGARIAN 
+* ITALIAN
+* LATVIAN
+* NORWEGIAN
+* POLISH
+* PORTUGUESE
+* ROMANIAN
+* RUSSIAN
+* SLOVENIAN
+* SPANISH
+* SWEDISH
+* TURKISH
+* UKRANIAN
+
+[ SOURCE IMG ]
+
+* ProPlus2019.en-US 
+
+[ EXE-FILES ]
+
+* ProPlus2019.ar-SA	* ProPlus2019.da-DK 
+* ProPlus2019.de-DE	* ProPlus2019.el-GR
+* ProPlus2019.es-ES	* ProPlus2019.et-ET
+* ProPlus2019.fi-FI	* ProPlus2019.fr-FR
+* ProPlus2019.hi-IN	* ProPlus2019.hu-HU
+* ProPlus2019.hr-HR	* ProPlus2019.it-IT	
+* ProPlus2019.lv-LV	* ProPlus2019.nb-NO	
+* ProPlus2019.nl-NL	* ProPlus2019.pl-PL	
+* ProPlus2019.pt-BR	* ProPlus2019.pt-PT	
+* ProPlus2019.ro-RO	* ProPlus2019.ru-RU	
+* ProPlus2019.sl-SI	* ProPlus2019.sv-SE´	
+* ProPlus2019.tr-TR	* ProPlus2019.uk-UA
+
+[ CREDIT ]
+
+* Windows_Addict, Authtor of Activation Scripts
+
+* Hope you will enjoy this release!
+
+* Regards,
+* Generation2
