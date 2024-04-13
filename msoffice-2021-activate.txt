@@ -3,8 +3,8 @@ title Activate Microsoft Office 2021 (ALL versions) for FREE - MSGuides.com&cls&
 :skms
 if %i% GTR 10 goto busy
 if %i% EQU 1 set KMS=kms7.MSGuides.com
-if %i% EQU 2 set KMS=s8.uk.to
-if %i% EQU 3 set KMS=s9.us.to
+if %i% EQU 2 set KMS=kms8.MSGuides.com
+if %i% EQU 3 set KMS=kms9.MSGuides.com
 if %i% GTR 3 goto ato
 cscript //nologo ospp.vbs /sethst:%KMS% >nul
 :ato
